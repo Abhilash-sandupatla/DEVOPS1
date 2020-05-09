@@ -1,5 +1,5 @@
 <?php
 
-print 'hi this is Abhilash';
+print 'Hi this is Abhilash';
 
 ?>
